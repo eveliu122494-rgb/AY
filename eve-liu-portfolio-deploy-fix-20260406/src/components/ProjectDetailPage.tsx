@@ -138,15 +138,13 @@ export default function ProjectDetailPage({ id, onBack }: ProjectDetailProps) {
             className="w-full max-w-5xl aspect-video px-8 lg:px-16"
           >
             <div className="w-full h-full bg-zinc-900/50 relative group overflow-hidden border border-white/5">
-             <video
+            <iframe
                 src={project.videoUrl}
-                className="absolute inset-0 w-full h-full object-contain bg-black"
-                controls
-                playsInline
-                preload="metadata"
-              >
-                你的浏览器不支持 video 标签。
-              </video>
+                className="absolute inset-0 w-full h-full"
+                allowFullScreen
+                allow="autoplay; encrypted-media"
+                title={project.title}
+              />
               
               {/* Decorative corner elements */}
               <div className="absolute top-0 left-0 w-4 h-4 border-t border-l border-white/20" />
