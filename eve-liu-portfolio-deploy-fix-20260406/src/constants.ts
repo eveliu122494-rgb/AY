@@ -78,7 +78,7 @@ export const ALL_PROJECTS: Project[] = [
     tags: ["脚本策划", "导演", "剪辑", "特效设计"],
     image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a7de12b94.webp",
     tools: ["PR", "AE"],
-    videoUrl: "F:\Essay\研究生阶段\研一\1影视节目策划与制作\03微电影《幕起幂生》",
+    videoUrl: "F:/Essay/研究生阶段/研一/1影视节目策划与制作/03微电影《幕起幂生》.mp4",
     gallery: []
   },
   {
