@@ -102,7 +102,7 @@ export const ALL_PROJECTS: Project[] = [
     tags: ["脚本策划", "视频剪辑", "特效设计"],
     image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a87a7c4ee.webp",
     tools: ["AE"],
-    videoUrl: "https://go.plvideo.cn/front/video/preview?vid=r0b6a851faa28854f21fcfb8a8ae4b56_r",
+    videoUrl: "https://pan.baidu.com/s/1R3Y3lxZOqdv-MX4yheNglQ?pwd=px5q",
     awards: ["第十一届NCDA未来设计师·全国高校数字艺术设计大赛国家级二等奖", "第十五届全国大学生广告艺术大赛省级三等奖"],
     gallery: []
   },
