@@ -78,7 +78,7 @@ export const ALL_PROJECTS: Project[] = [
     tags: ["脚本策划", "导演", "剪辑", "特效设计"],
     image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a7de12b94.webp",
     tools: ["PR", "AE"],
-    videoUrl: "https://www.bilibili.com/video/BV1E2yRYKEKo/?share_source=copy_web&vd_source=819fc09e0ccdfc151c3031a51c8e04a1",
+    videoUrl: "https://pan.baidu.com/s/1MAYn3j3nn6bSNg2hQZR3DQ?pwd=zice",
     gallery: []
   },
   {
@@ -128,7 +128,7 @@ export const ALL_PROJECTS: Project[] = [
     tags: ["脚本策划", "文案撰写", "动画制作", "特效设计"],
     image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a9c66c7bc.webp",
     tools: ["AE"],
-    videoUrl: "https://www.bilibili.com/video/BV1Me411v74F/?share_source=copy_web&vd_source=819fc09e0ccdfc151c3031a51c8e04a1",
+    videoUrl: "https://pan.baidu.com/s/1vrcllCQMHQz9ZO_ZNUCeiw?pwd=1bgy",
     awards: ["第16届中国大学生计算机设计大赛国家级三等奖", "第16届中国大学生计算机设计大赛省级三等奖"],
     gallery: []
   },
@@ -141,7 +141,7 @@ export const ALL_PROJECTS: Project[] = [
     tags: ["脚本策划", "后期导演", "视频剪辑", "特效设计"],
     image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a9c4bfc2b.webp",
     tools: ["PR", "AE"],
-    videoUrl: "https://go.plvideo.cn/front/video/preview?vid=r0b6a851fa6d25cf7044db8d6ca220c0_r",
+    videoUrl: "https://pan.baidu.com/s/1pzVS4QQtHrsnFt7HG2luJA?pwd=i91sr",
     gallery: []
   },
   {
@@ -153,7 +153,7 @@ export const ALL_PROJECTS: Project[] = [
     tags: ["脚本策划", "摄影摄像", "特效设计"],
     image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a9c31dc62.webp",
     tools: ["AE"],
-    videoUrl: "https://go.plvideo.cn/front/video/preview?vid=r0b6a851fa8f7ebd4e66d30b036af117_r",
+    videoUrl: "https://pan.baidu.com/s/1S0JsogQZqdVuJVE6-S9mEQ?pwd=dxvir",
     gallery: []
   },
   {
