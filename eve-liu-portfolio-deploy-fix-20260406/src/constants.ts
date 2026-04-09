@@ -141,7 +141,7 @@ export const ALL_PROJECTS: Project[] = [
     tags: ["脚本策划", "后期导演", "视频剪辑", "特效设计"],
     image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a9c4bfc2b.webp",
     tools: ["PR", "AE"],
-    videoUrl: "https://pan.baidu.com/s/1pzVS4QQtHrsnFt7HG2luJA?pwd=i91sr",
+    videoUrl: "https://pan.baidu.com/s/1h_IEZCSoeA3nkMX4ayC6kw?pwd=i57d",
     gallery: []
   },
   {
@@ -153,7 +153,7 @@ export const ALL_PROJECTS: Project[] = [
     tags: ["脚本策划", "摄影摄像", "特效设计"],
     image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a9c31dc62.webp",
     tools: ["AE"],
-    videoUrl: "https://pan.baidu.com/s/1S0JsogQZqdVuJVE6-S9mEQ?pwd=dxvir",
+    videoUrl: "https://pan.baidu.com/s/1jitjgECgEH0tVPskFm0HSA?pwd=5xei",
     gallery: []
   },
   {
