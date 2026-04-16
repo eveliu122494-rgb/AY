@@ -29,10 +29,10 @@ export const ALL_PROJECTS: Project[] = [
     roles: ["产品设计"],
     awards: ["第九届中国国际“互联网+”大学生创新创业大赛省级一等奖", "第九届中国国际“互联网+”大学生创新创业大赛国家级铜奖"],
     gallery: [
-      { id: 1, title: "首页", sub: "精选推荐", image: "https://picui.ogmua.cn/s1/2026/04/06/69d35f609ec9a.webp", offset: "-60px" },
-      { id: 2, title: "航天商城", sub: "商业化变现", image: "https://picui.ogmua.cn/s1/2026/04/06/69d384409100a.webp", offset: "60px" },
-      { id: 3, title: "科普视频", sub: "解决科普枯燥问题", image: "https://picui.ogmua.cn/s1/2026/04/06/69d3844095f17.webp", offset: "-30px" },
-      { id: 4, title: "热门活动", sub: "线下研学营活动带动付费变现", image: "https://picui.ogmua.cn/s1/2026/04/06/69d35f5fc7363.webp", offset: "90px" },
+      { id: 1, title: "首页", sub: "精选推荐", image: "https://free.picui.cn/free/2026/04/16/69e0d67fb97d6.png", offset: "-60px" },
+      { id: 2, title: "航天商城", sub: "商业化变现", image: "https://free.picui.cn/free/2026/04/16/69e0d67fb378e.png", offset: "60px" },
+      { id: 3, title: "科普视频", sub: "解决科普枯燥问题", image: "https://free.picui.cn/free/2026/04/16/69e0d67fa12d7.png", offset: "-30px" },
+      { id: 4, title: "热门活动", sub: "线下研学营活动带动付费变现", image: "https://free.picui.cn/free/2026/04/16/69e0d67f9d377.png", offset: "90px" },
     ]
   },
   {
