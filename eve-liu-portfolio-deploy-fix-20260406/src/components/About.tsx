@@ -113,7 +113,7 @@ export default function About() {
               className="w-full h-full bg-white/10 overflow-hidden relative border-4 border-white/10"
             >
               <img 
-                src="https://picui.ogmua.cn/s1/2026/04/06/69d35a9f745ee.webp" 
+                src="https://free.picui.cn/free/2026/04/16/69e0d54546f69.jpg" 
                 alt="Eve Liu" 
                 className="w-full h-full object-cover transition-all duration-700"
                 referrerPolicy="no-referrer"
