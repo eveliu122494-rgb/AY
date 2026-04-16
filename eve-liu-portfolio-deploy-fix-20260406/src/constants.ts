@@ -177,14 +177,14 @@ export const ALL_PROJECTS: Project[] = [
     year: "2024/12",
     description: "记录生活瞬间，捕捉光影艺术。",
     tags: ["摄影", "后期", "光影"],
-    image: "https://picui.ogmua.cn/s1/2026/04/06/69d39da18a83f.webp",
+    image: "https://free.picui.cn/free/2026/04/16/69e0de6d901f2.jpg",
     roles: ["摄影师", "后期修图"],
     gallery: [
-      { id: 1, title: "劳动人民", sub: "", image: "https://picui.ogmua.cn/s1/2026/04/06/69d39dd681d37.webp", offset: "-72px" },
-      { id: 2, title: "公园小憩", sub: "", image: "https://picui.ogmua.cn/s1/2026/04/06/69d39dd783e9a.webp", offset: "48px" },
-      { id: 3, title: "喜马拉雅山脉", sub: "", image: "https://picui.ogmua.cn/s1/2026/04/06/69d39da18a83f.webp", offset: "-24px", scale: 1.5 },
-      { id: 4, title: "纳木措圣象天门", sub: "", image: "https://picui.ogmua.cn/s1/2026/04/06/69d39d8eb36b7.webp", offset: "84px", scale: 1.5 },
-      { id: 5, title: "晚霞", sub: "", image: "https://picui.ogmua.cn/s1/2026/04/06/69d39d810e243.webp", offset: "6px", scale: 1.5 },
+      { id: 1, title: "劳动人民", sub: "", image: "https://free.picui.cn/free/2026/04/16/69e0de71c1ff6.jpg", offset: "-72px" },
+      { id: 2, title: "公园小憩", sub: "", image: "https://free.picui.cn/free/2026/04/16/69e0de73157de.jpg", offset: "48px" },
+      { id: 3, title: "喜马拉雅山脉", sub: "", image: "https://free.picui.cn/free/2026/04/16/69e0de6d901f2.jpg", offset: "-24px", scale: 1.5 },
+      { id: 4, title: "纳木措圣象天门", sub: "", image: "https://free.picui.cn/free/2026/04/16/69e0de6d6df24.jpg", offset: "84px", scale: 1.5 },
+      { id: 5, title: "晚霞", sub: "", image: "https://free.picui.cn/free/2026/04/16/69e0de6d3044d.jpg", offset: "6px", scale: 1.5 },
     ]
   },
   {
