@@ -45,10 +45,10 @@ export const ALL_PROJECTS: Project[] = [
     image: "https://ask.qcloudimg.com/http-save/developer-news/x9d8qtk6xv.jpeg?",
     roles: ["内容策划", "日常运营", "增长优化"],
     gallery: [
-      { id: 1, title: "", sub: "", image: "https://picui.ogmua.cn/s1/2026/04/06/69d38b7aae359.webp", offset: "-60px" },
-      { id: 2, title: "", sub: "", image: "https://picui.ogmua.cn/s1/2026/04/06/69d38b7a98e7e.webp", offset: "60px" },
-      { id: 3, title: "", sub: "", image: "https://picui.ogmua.cn/s1/2026/04/06/69d38b7aa240d.webp", offset: "-30px" },
-      { id: 4, title: "", sub: "", image: "https://picui.ogmua.cn/s1/2026/04/06/69d38b7aa470c.webp", offset: "90px" },
+      { id: 1, title: "", sub: "", image: "https://free.picui.cn/free/2026/04/16/69e0d6e6ac8af.png", offset: "-60px" },
+      { id: 2, title: "", sub: "", image: "https://free.picui.cn/free/2026/04/16/69e0d6e67fa57.png", offset: "60px" },
+      { id: 3, title: "", sub: "", image: "https://free.picui.cn/free/2026/04/16/69e0d6e6b9b6f.png", offset: "-30px" },
+      { id: 4, title: "", sub: "", image: "https://free.picui.cn/free/2026/04/16/69e0d6e6cfaa7.png", offset: "90px" },
     ]
   },
   {
