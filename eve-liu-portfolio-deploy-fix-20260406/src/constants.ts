@@ -61,12 +61,12 @@ export const ALL_PROJECTS: Project[] = [
     image: "http://5b0988e595225.cdn.sohucs.com/images/20180517/5ff31706e4994c1aa045a202c34a61ab.jpeg",
     roles: ["选题创作", "拍摄", "剪辑"],
     gallery: [
-      { id: 1, title: "快手", sub: "多条作品播放量1000w+，点赞量100w+", image: "https://picui.ogmua.cn/s1/2026/04/06/69d38c506305b.webp", offset: "-72px" },
-      { id: 2, title: "抖音", sub: "爆款传播", image: "https://picui.ogmua.cn/s1/2026/04/06/69d38c508ef84.webp", offset: "48px" },
-      { id: 3, title: "视频号", sub: "流量转化", image: "https://picui.ogmua.cn/s1/2026/04/06/69d38c50ac3be.webp", offset: "-24px" },
-      { id: 4, title: "小红书", sub: "引流变现", image: "https://picui.ogmua.cn/s1/2026/04/06/69d38c50b4ebe.webp", offset: "84px" },
-      { id: 5, title: "视频号", sub: "持续的内容迭代", image: "https://picui.ogmua.cn/s1/2026/04/06/69d38c510860f.webp", offset: "6px" },
-      { id: 6, title: "快手消息界面", sub: "粉丝活跃度高", image: "https://picui.ogmua.cn/s1/2026/04/06/69d38c629dda9.webp", offset: "54px" },
+      { id: 1, title: "快手", sub: "多条作品播放量1000w+，点赞量100w+", image: "https://free.picui.cn/free/2026/04/16/69e0d745ec036.png", offset: "-72px" },
+      { id: 2, title: "抖音", sub: "爆款传播", image: "https://free.picui.cn/free/2026/04/16/69e0d7466ec7f.png", offset: "48px" },
+      { id: 3, title: "视频号", sub: "流量转化", image: "https://free.picui.cn/free/2026/04/16/69e0d746a91d9.png", offset: "-24px" },
+      { id: 4, title: "小红书", sub: "引流变现", image: "https://free.picui.cn/free/2026/04/16/69e0d746acfd6.png", offset: "84px" },
+      { id: 5, title: "视频号", sub: "持续的内容迭代", image: "https://free.picui.cn/free/2026/04/16/69e0d746d7982.png", offset: "6px" },
+      { id: 6, title: "快手消息界面", sub: "粉丝活跃度高", image: "https://free.picui.cn/free/2026/04/16/69e0d749bb1f6.png", offset: "54px" },
     ]
   },
   {
