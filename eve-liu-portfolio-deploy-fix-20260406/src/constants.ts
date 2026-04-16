@@ -194,14 +194,14 @@ export const ALL_PROJECTS: Project[] = [
     year: "2022/05",
     description: "内容策划 | 需求分析 | 用户画像 | 周边设计。全方位品牌升级与创意营销方案。",
     tags: ["策划案", "品牌营销", "创意设计"],
-    image: "https://picui.ogmua.cn/s1/2026/04/06/69d3ac1172925.webp",
+    image: "https://free.picui.cn/free/2026/04/16/69e0def677f84.png",
     gallery: [
-      { id: 1, title: "市场分析", sub: "现状与挑战", image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a1f66ccbd.webp", offset: "-60px", scale: 1.5 },
-      { id: 2, title: "用户画像", sub: "精准的洞察", image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a1f674807.webp", offset: "60px", scale: 1.5 },
-      { id: 3, title: "创意策略", sub: "核心的玩法", image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a1f6726cc.webp", offset: "-30px", scale: 1.5 },
-      { id: 4, title: "视觉设计", sub: "品牌的焕新", image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a1f66ca01.webp", offset: "90px", scale: 1.5 },
-      { id: 5, title: "媒介投放", sub: "全渠道覆盖", image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a1f69669a.webp", offset: "12px", scale: 1.5 },
-      { id: 6, title: "预算评估", sub: "落地执行评估", image: "https://picui.ogmua.cn/s1/2026/04/06/69d3a207c0714.webp", offset: "48px", scale: 1.5 },
+      { id: 1, title: "市场分析", sub: "现状与挑战", image: "https://free.picui.cn/free/2026/04/16/69e0def6ead26.png", offset: "-60px", scale: 1.5 },
+      { id: 2, title: "用户画像", sub: "精准的洞察", image: "https://free.picui.cn/free/2026/04/16/69e0df53336d9.png", offset: "60px", scale: 1.5 },
+      { id: 3, title: "创意策略", sub: "核心的玩法", image: "https://free.picui.cn/free/2026/04/16/69e0def6cff84.png", offset: "-30px", scale: 1.5 },
+      { id: 4, title: "视觉设计", sub: "品牌的焕新", image: "https://free.picui.cn/free/2026/04/16/69e0def6d1a68.png", offset: "90px", scale: 1.5 },
+      { id: 5, title: "媒介投放", sub: "全渠道覆盖", image: "https://free.picui.cn/free/2026/04/16/69e0def6f13c6.png", offset: "12px", scale: 1.5 },
+      { id: 6, title: "预算评估", sub: "落地执行评估", image: "https://free.picui.cn/free/2026/04/16/69e0df53337b6.png", offset: "48px", scale: 1.5 },
     ]
   }
 ];
