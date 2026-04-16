@@ -164,10 +164,10 @@ export const ALL_PROJECTS: Project[] = [
     description: "海洋环保公益作品 | 第八届江苏省科普公益作品大赛三等奖。",
     detailDescription: "本作品以海洋环保为主题，采用分割式的平面设计将画面分成了左右两个海洋生态。右侧是被污染前的正常海洋环境；而左侧则是被垃圾污染后的海洋。左侧的色调采用了暗灰调，展现出天空和海洋的水质已经被污染破坏，生存在其间的鱼的身体也是由各种海洋垃圾构成的，一根根烟架出了鱼骨，毫无生气。值得一提的是，画面并非是五五分，而是左侧的画面大于右侧，暗指目前海洋的生态问题极为严重，呼吁大家要保护海洋，保护我们的生态家园。",
     tags: ["创意策划", "平面设计", "PS"],
-    image: "https://picui.ogmua.cn/s1/2026/04/06/69d39c2715050.webp",
+    image: "https://free.picui.cn/free/2026/04/16/69e0dec193668.jpg",
     awards: ["第八届江苏省科普公益作品大赛省级三等奖"],
     gallery: [
-      { id: 1, title: "", sub: "", image: "https://picui.ogmua.cn/s1/2026/04/06/69d39c2715050.webp", offset: "0px" },
+      { id: 1, title: "", sub: "", image: "https://free.picui.cn/free/2026/04/16/69e0dec193668.jpg", offset: "0px" },
     ]
   },
   {
